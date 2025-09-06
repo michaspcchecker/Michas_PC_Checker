@@ -1,4 +1,4 @@
-# MyApp.exe
+Michas_PC_Checker
 
 **🛡️ This app is safe!**
 
